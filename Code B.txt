@@ -1,3 +1,4 @@
+Version 1.0
 /********************
 Just to simulate content in a programming source code
 All statements starts as "Code B" in this file
